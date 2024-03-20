@@ -84,7 +84,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Research about Gamification in AI Education
         # link: github.com/sproogen
         # link_text: Project Website
@@ -123,7 +123,7 @@ content:
           - Built the Database which can collect the users’ information and schedule with <mark>MongoDB</mark>.
           - Designed the overall UI/UX.
 
-      - layout: left
+      - layout: top
         title: "WIC Maker Hackathon: “IoT Smart Stroller”"
         # link: github.com/Angela118/playmeet
         # link_text: Project Website
@@ -145,7 +145,7 @@ content:
   - title: Certificate # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Data Science Immersive Program (1-month intensive course)
         # link: boringcompany.com
         # link_text: boringcompany.com
