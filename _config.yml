@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Angela (InJu) Yoon
-title: "Working Permit: US Citizen"
+# title: "Work Permit: US Citizen"
 email: dlswn35@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -52,6 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
   Dedicated computer science professional specializing in software development, with a strong interest in data analysis. Eager to contribute to a dynamic team where I can further develop my technical skills and learn from experienced peers. Able to collaborate effectively, with strong interpersonal skills and proficiency in various programming languages. Passionate about leveraging data insights to guide informed business decisions.
 
   I am most skilled in: <mark>Python</mark> and <mark>Data Analysis</mark>
+
+  "Work Permit: <mark>US Citizen</mark>"
 
 content:
   - title: Education # Title for the section
