@@ -7,9 +7,10 @@ version: 2
 
 # Personal info
 name: Angela (InJu) Yoon
-# title: Senior Network System Administrator
+title: "Working Permit: US Citizen"
 email: dlswn35@gmail.com
 # website: www.github.com/sproogen/resume-theme
+
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -104,10 +105,10 @@ content:
         link: github.com/Angela118/playmeet
         # link_text: Project Website
         caption: May 2018 - Sep 2018
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -121,14 +122,14 @@ content:
           - Designed the overall UI/UX.
 
       - layout: left
-        title: WIC Maker Hackathon:“IoT Smart Stroller”
+        title: "WIC Maker Hackathon: “IoT Smart Stroller”"
         # link: github.com/Angela118/playmeet
         # link_text: Project Website
         caption: Jan 2018
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -156,9 +157,7 @@ content:
   - title: Honor & Scholarships
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 3rd place, WIC Maker Hackathon	| Sookmyung Women’s University				      
-    quote: > 
-      Winter 2018
+      - 3rd place, WIC Maker Hackathon	| Sookmyung Women’s University				      Winter 2018
       - Honor Student Scholarship | Sookmyung Women’s University			           Spring 2017, Spring 2018
       - Prime Scholarship | Sookmyung Women’s University						      Winter 2016
 
@@ -183,7 +182,7 @@ content:
   #     - Data Analysis using Python with Pandas, Scikit-learn, Numpy, Seaborn, and Matplotlib.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
