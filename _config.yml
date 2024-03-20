@@ -89,10 +89,10 @@ content:
         # link: github.com/sproogen
         # link_text: Project Website
         caption: Mar 2023 - Sep 2023
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -107,10 +107,10 @@ content:
         link: github.com/Angela118/playmeet
         # link_text: Project Website
         caption: May 2018 - Sep 2018
-        # additional_links:
-        #   - title:  sproogen/modern-resume-theme
-        #     icon: fab fa-github
-        #     url: github.com/sproogen/modern-resume-theme
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -157,11 +157,22 @@ content:
             Analyzed multiple datasets on Kaggle, performing Exploratory Data Analysis (EDA), Feature Engineering, and Model Selection and Parameter Optimization using Python libraries including Pandas, Scikit-learn, NumPy, Seaborn, and Matplotlib.
 
   - title: Honor & Scholarships
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - 3rd place, WIC Maker Hackathon	| Sookmyung Women’s University				      Winter 2018
-      - Honor Student Scholarship | Sookmyung Women’s University			           Spring 2017, Spring 2018
-      - Prime Scholarship | Sookmyung Women’s University						      Winter 2016
+    layout: list
+    content: 
+      - layout: left
+        title: 3rd place, WIC Maker Hackathon
+        sub_title: Sookmyung Women’s University
+        description: Winter 2018
+
+      - layout: left
+        title: Honor Student Scholarship
+        sub_title: Sookmyung Women’s University			           
+        description: Spring 2017, Spring 2018
+
+      - layout: left
+        title: Prime Scholarship
+        sub_title: Sookmyung Women’s University						      
+        description: Winter 2016
 
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
