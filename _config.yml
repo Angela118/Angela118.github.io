@@ -56,8 +56,8 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: University of California, Davis
+      - layout: top-left
+        title: - University of California, Davis
         caption: Jun 2023
         sub_title: Master of Science in Computer Science
         # quote: >
@@ -67,7 +67,8 @@ content:
 
         #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       
-      - title: Sookmyung Women's University
+      - layout: top-left
+        title: - Sookmyung Women's University
         caption: Feb 2020
         sub_title: Bachelor of Engineering in Computer Science
 
