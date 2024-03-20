@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Python</mark> and <mark>Data Analysis</mark>
 
-  "Work Permit: <mark>US Citizen</mark>"
+  Work Permit: <mark>US Citizen</mark>
 
 content:
   - title: Education # Title for the section
@@ -102,7 +102,7 @@ content:
           - Collected and cleaned data related to games for AI education and built a data set.
           - Visualized and analyzed the collected data by using <mark>Python</mark> with <mark>Pandas</mark>, <mark>Numpy</mark>, <mark>Seaborn</mark>, and <mark>Matplotlib</mark>.
       
-      - layout: left
+      - layout: top
         title: “Play Meet”
         link: github.com/Angela118/playmeet
         # link_text: Project Website
