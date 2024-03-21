@@ -118,7 +118,7 @@ content:
         quote: >
           “Play Meet” is an unreleased web application that helps amateur soccer teams find the most ideal opponent team. This application includes several functions such as messenger, scheduling with a calendar, reviewing the opposing team, and recommendation systems.
         description: | # this will include new lines to allow paragraphs
-          - Managed the project and team as a team leader.
+          - Managed the project and team as a team leader, maximizing effectiveness by guiding the process from project initiation through implementation to final presentation.
           - Made the recommendation system with Euclidean distance based on the users’ information data using <mark>Python</mark>.
           - Created the server using <mark>JavaScript</mark> in <mark>Node.JS</mark>.
           - Built the Database which can collect the users’ information and schedule with <mark>MongoDB</mark>.
@@ -139,7 +139,7 @@ content:
         quote: >
           “IoT Smart Stroller” which can read the surroundings and react optimally for parents.
         description: | # this will include new lines to allow paragraphs
-          - Managed the project and team as a team leader.
+          - Managed the project and team as a team leader, demonstrating resilience by effectively navigating constraints that required us to utilize a limited set of tools within a designated timeframe.
           - Coded the sensors (the distance, bump, temperature and humidity, and sound sensors) and speaker attached to the stroller with <mark>Arduino</mark>.
           - Developed a mobile application and connected it to the Arduino system using <mark>App Inventor</mark>.
 
@@ -160,8 +160,8 @@ content:
   - title: Honor & Scholarships
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 3rd place, WIC Maker Hackathon, Sookmyung Women’s University
-      - Honor Student Scholarship, Sookmyung Women’s University
+      - 3rd place, WIC Maker Hackathon \t Sookmyung Women’s University
+      - Honor Student Scholarship \t Sookmyung Women’s University
       - Prime Scholarship, Sookmyung Women’s University
 
   # - title: Education # Title for the section
