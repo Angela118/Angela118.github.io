@@ -49,9 +49,9 @@ linkedin_username: angela-yoon94
 # about_title: About Me
 about_profile_image: images/grad.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Dedicated computer science professional specializing in <mark>software development</mark>, with a strong interest in <mark>data analysis</mark>. Eager to contribute to a dynamic team where I can further develop my technical skills and learn from experienced peers. Able to collaborate effectively, with strong interpersonal skills and proficiency in various programming languages.
+  Dedicated computer science professional specializing in software development, with a strong interest in data analysis. Eager to contribute to a dynamic team where I can further develop my technical skills and learn from experienced peers.
 
-# I am most skilled in: <mark>Python</mark> and <mark>Data Analysis</mark>
+  I am most skilled in: <mark>Python</mark> and <mark>Data Analysis</mark>
 
   Work Permit: <mark>US Citizen</mark>
 
@@ -61,7 +61,7 @@ content:
     content:
       - layout: top
         title: University of California, Davis
-        caption: Graduated in Jun 2023
+        caption: Jun 2023
         sub_title: Master of Science in Computer Science
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -72,13 +72,13 @@ content:
       
       - layout: top
         title: Sookmyung Women's University
-        caption: Graduated Feb 2020
+        caption: Feb 2020
         sub_title: Bachelor of Engineering in Computer Science
 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming Skill: Python, C/C++, Java, JavaScript, SQL | MongoDB, Node.js, Arduino, App Inventor
+      - Programming skills: Python,  Java, C, C++, JavaScript, SQL, MongoDB, Arduino
       - Data Analysis Tool: Pandas, Scikit-learn, Numpy, Seaborn, Matplotlib
 
   - title: Projects # Title for the section
@@ -98,10 +98,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
+        #   This project aims to create an innovative gamification framework that leverages machine learning to promote equity and inclusion in the education field.
         description: | # this will include new lines to allow paragraphs
           - Collected and cleaned data performing in-depth analysis of 35 commercially available and playable educational games designed for teaching AI across 18 criteria and built a comprehensive data set.
-          - Conducted exploratory research using Python libraries to visualize and analyze the data distributions and correlations.
-          - Python <mark>Pandas</mark>, <mark>Numpy</mark>, <mark>Seaborn</mark>, <mark>Matplotlib</mark>
+          - Conducted exploratory research using Python libraries to visualize and analyze the data distributions and correlations
+          - <mark>Python</mark> <mark>Pandas</mark>, <mark>Numpy</mark>, <mark>Seaborn</mark>, <mark>Matplotlib</mark>
       
       - layout: top
         title: “Play Meet”
@@ -119,13 +120,13 @@ content:
           “Play Meet” is an unreleased web application that helps amateur soccer teams find the most ideal opponent team. This application includes several functions such as messenger, scheduling with a calendar, reviewing the opposing team, and recommendation systems.
         description: | # this will include new lines to allow paragraphs
           - As the team leader of a three-member team, managed and optimized the entire project workflow, ensuring operational efficiency and culminating in a successful final presentation.
-          - Developed the recommendation system using <mark>Numpy</mark> and <mark>SciPy</mark>, leveraging Euclidean distance to analyze user information data for personalized recommendations.
+          - Developed the recommendation system using Numpy and SciPy, leveraging Euclidean distance to analyze user information data for personalized recommendations.
           - Built the database to store and manage user information, chat logs, reviews, and schedules.
           - Engineered the server to handle the data for the match management system, posting games, chatting, scheduling, and reviews.
           - <mark>Python</mark>, <mark>JavaScript</mark>, <mark>Node.js</mark>, <mark>MongoDB</mark>
 
       - layout: top
-        title: 'WIC Maker Hackathon: IoT Smart Stroller'
+        title: "WIC Maker Hackathon: “IoT Smart Stroller”"
         # link: github.com/Angela118/playmeet
         # link_text: Project Website
         caption: Jan 2018
@@ -161,9 +162,9 @@ content:
   - title: Honor & Scholarships
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 3rd place, WIC Maker Hackathon  @Sookmyung Women't University
-      - Honor Student Scholarship @Sookmyung Women’s University
-      - Prime Scholarship @Sookmyung Women’s University
+      - 3rd place, WIC Maker Hackathon        @Sookmyung Women't University
+      - Honor Student Scholarship       @Sookmyung Women’s University
+      - Prime Scholarship       @Sookmyung Women’s University
 
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
