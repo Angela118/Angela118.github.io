@@ -50,9 +50,7 @@ linkedin_username: angela-yoon94
 about_profile_image: images/grad.jpg
 about_content: | # this will include new lines to allow paragraphs
   Dedicated computer science professional specializing in software development, with a strong interest in data analysis. Able to collaborate effectively, with strong interpersonal skills and proficiency in various programming languages.
-
-# I am most skilled in: <mark>Python</mark> and <mark>Data Analysis</mark>
-
+  
   Work Permit: <mark>US Citizen</mark>
 
 content:
