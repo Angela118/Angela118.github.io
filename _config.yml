@@ -164,9 +164,9 @@ and reviews.
   - title: Honor & Scholarships
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 3rd place, WIC Maker Hackathon    |    @Sookmyung Women't University
-      - Honor Student Scholarship    |    @Sookmyung Women’s University
-      - Prime Scholarship    |    @Sookmyung Women’s University
+      - 3rd place, WIC Maker Hackathon  @Sookmyung Women't University
+      - Honor Student Scholarship @Sookmyung Women’s University
+      - Prime Scholarship @Sookmyung Women’s University
 
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
