@@ -49,9 +49,9 @@ linkedin_username: angela-yoon94
 # about_title: About Me
 about_profile_image: images/grad.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Dedicated computer science professional specializing in software development, with a strong interest in data analysis. Eager to contribute to a dynamic team where I can further develop my technical skills and learn from experienced peers.
+  Dedicated computer science professional specializing in <mark>software development</mark>, with a strong interest in <mark>data analysis</mark>. Eager to contribute to a dynamic team where I can further develop my technical skills and learn from experienced peers. Able to collaborate effectively, with strong interpersonal skills and proficiency in various programming languages.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Data Analysis</mark>
+# I am most skilled in: <mark>Python</mark> and <mark>Data Analysis</mark>
 
   Work Permit: <mark>US Citizen</mark>
 
@@ -61,7 +61,7 @@ content:
     content:
       - layout: top
         title: University of California, Davis
-        caption: Jun 2023
+        caption: Graduated in Jun 2023
         sub_title: Master of Science in Computer Science
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -72,14 +72,14 @@ content:
       
       - layout: top
         title: Sookmyung Women's University
-        caption: Feb 2020
+        caption: Graduated Feb 2020
         sub_title: Bachelor of Engineering in Computer Science
 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming skills: Python,  Java, C, C++, JavaScript, SQL, MongoDB, Arduino
-      - Data Analysis using Python with Pandas, Scikit-learn, Numpy, Seaborn, and Matplotlib.
+      - Programming Skill: **Python**, C/C++, Java, JavaScript, SQL | MongoDB, Node.js, Arduino, App Inventor
+      - Data Analysis Tool: Pandas, Scikit-learn, Numpy, Seaborn, Matplotlib
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,11 +97,13 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This project aims to create an innovative gamification framework that leverages machine learning to promote equity and inclusion in the education field.
+        # quote: >
         description: | # this will include new lines to allow paragraphs
-          - Collected and cleaned data related to games for AI education and built a data set.
-          - Visualized and analyzed the collected data by using <mark>Python</mark> with <mark>Pandas</mark>, <mark>Numpy</mark>, <mark>Seaborn</mark>, and <mark>Matplotlib</mark>.
+          - Collected and cleaned data performing in-depth analysis of 35 commercially available and playable educational
+games designed for teaching AI across 18 criteria and built a comprehensive data set.
+          - Conducted exploratory research using Python libraries to visualize and analyze the data distributions and
+correlations.
+          - Python <mark>Pandas</mark>, <mark>Numpy</mark>, <mark>Seaborn</mark>, <mark>Matplotlib</mark>
       
       - layout: top
         title: “Play Meet”
@@ -118,14 +120,15 @@ content:
         quote: >
           “Play Meet” is an unreleased web application that helps amateur soccer teams find the most ideal opponent team. This application includes several functions such as messenger, scheduling with a calendar, reviewing the opposing team, and recommendation systems.
         description: | # this will include new lines to allow paragraphs
-          - Managed the project and team as a team leader, maximizing effectiveness by guiding the process from project initiation through implementation to final presentation.
-          - Made the recommendation system with Euclidean distance based on the users’ information data using <mark>Python</mark>.
-          - Created the server using <mark>JavaScript</mark> in <mark>Node.JS</mark>.
-          - Built the Database which can collect the users’ information and schedule with <mark>MongoDB</mark>.
-          - Designed the overall UI/UX.
+          - As the team leader of a three-member team, managed and optimized the entire project workflow, ensuring operational efficiency and culminating in a successful final presentation.
+          - Developed the recommendation system using <mark>Numpy</mark> and <mark>SciPy</mark>, leveraging Euclidean distance to analyze user information data for personalized recommendations.
+          - Built the database to store and manage user information, chat logs, reviews, and schedules.
+          - Engineered the server to handle the data for the match management system, posting games, chatting, scheduling,
+and reviews.
+          - <mark>Python</mark>, <mark>JavaScript</mark>, <mark>Node.js</mark>, <mark>MongoDB</mark>
 
       - layout: top
-        title: "WIC Maker Hackathon: “IoT Smart Stroller”"
+        title: "WIC Maker Hackathon: IoT Smart Stroller"
         # link: github.com/Angela118/playmeet
         # link_text: Project Website
         caption: Jan 2018
@@ -139,9 +142,10 @@ content:
         quote: >
           “IoT Smart Stroller” which can read the surroundings and react optimally for parents.
         description: | # this will include new lines to allow paragraphs
-          - Managed the project and team as a team leader, demonstrating resilience by effectively navigating constraints that required us to utilize a limited set of tools within a designated timeframe.
-          - Coded the sensors (the distance, bump, temperature and humidity, and sound sensors) and speaker attached to the stroller with <mark>Arduino</mark>.
-          - Developed a mobile application and connected it to the Arduino system using <mark>App Inventor</mark>.
+          - As the leader of a five-member team, led the project and team, adeptly managing constraints that required us to utilize a limited set of tools within a designated time frame.
+          - Coded several Arduino sensors (the distance, bump, temperature and humidity, and sound sensors) and a speaker which were attached to the stroller.
+          - Developed a simple mobile application to display data from the sensors for users by connecting it to the Arduino system.
+          - <mark>App Inventor</mark>, <mark>Arduino</mark>
 
   - title: Certificate # Title for the section
     layout: list # Type of content section (list/text)
@@ -155,7 +159,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Analyzed multiple datasets on Kaggle, performing Exploratory Data Analysis (EDA), Feature Engineering, and Model Selection and Parameter Optimization using Python libraries including Pandas, Scikit-learn, NumPy, Seaborn, and Matplotlib.
+            Analyzed multiple datasets on Kaggle, performing Exploratory Data Analysis (EDA), Feature Engineering, Model Selection, and Parameter Optimization using Python-based techniques.
 
   - title: Honor & Scholarships
     layout: text
