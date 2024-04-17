@@ -78,7 +78,7 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Python, C/C++, Java, JavaScript, SQL | MongoDB, Node.js, Arduino, App Inventor
+      - "Python, C/C++, Java, JavaScript, SQL | MongoDB, Node.js, Arduino, App Inventor"
       - Data Analysis Tool: Pandas, Scikit-learn, Numpy, Seaborn, Matplotlib
 
   - title: Projects # Title for the section
