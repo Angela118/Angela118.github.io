@@ -51,7 +51,7 @@ about_profile_image: images/grad.jpg
 about_content: | # this will include new lines to allow paragraphs
   Dedicated computer science professional specializing in software development, with a strong interest in data analysis. Able to collaborate effectively, with strong interpersonal skills and proficiency in various programming languages.
   
-  Work Permit: <mark>US Citizen</mark>
+  Work Permit: <mark>KOR/US dual-citizenship</mark>
 
 content:
   - title: Education # Title for the section
