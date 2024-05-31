@@ -162,16 +162,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-          title: AI Immersive Program
-          # link: boringcompany.com
-          # link_text: boringcompany.com
-          sub_title: BOOSTCOURSE Coaching Study [Let's AI]
-          caption: May 2024 - Present
-          # quote: >
-          #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-          # description: | # this will include new lines to allow paragraphs
-          #     Analyzed multiple datasets on Kaggle, performing Exploratory Data Analysis (EDA), Feature Engineering, Model Selection, and Parameter Optimization using Python-based techniques.
-
+        title: AI Immersive Program
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: BOOSTCOURSE Coaching Study [Let's AI]
+        caption: May 2024 - Present
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        # description: | # this will include new lines to allow paragraphs
+        #     Analyzed multiple datasets on Kaggle, performing Exploratory Data Analysis (EDA), Feature Engineering, Model Selection, and Parameter Optimization using Python-based techniques.
       - layout: top
         title: Data Science Immersive Program
         # link: boringcompany.com
@@ -181,7 +180,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Analyzed multiple datasets on Kaggle, performing Exploratory Data Analysis (EDA), Feature Engineering, Model Selection, and Parameter Optimization using Python-based techniques.
+          - Analyzed several datasets on Kaggle and discussed with group members to improve data analysis skills.
 
   - title: Honor & Scholarships
     layout: text
