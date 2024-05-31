@@ -51,16 +51,16 @@ about_profile_image: images/grad.jpg
 about_content: | # this will include new lines to allow paragraphs
   Dedicated computer science professional specializing in software development, with a strong interest in data analysis. Able to collaborate effectively, with strong interpersonal skills and proficiency in various programming languages.
   
-  Work Permit: <mark>KOR/US dual-citizenship</mark>
+  Work Permit: <mark>KR/US dual-citizenship</mark>
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: University of California, Davis
+        title: Master of Science in Computer Science
         caption: Jun 2023
-        sub_title: Master of Science in Computer Science
+        sub_title: University of California, Davis
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         # description: | # this will include new lines to allow paragraphs
@@ -69,14 +69,14 @@ content:
         #   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       
       - layout: top
-        title: Sookmyung Women's University
+        title: Bachelor of Engineering in Computer Science
         caption: Feb 2020
-        sub_title: Bachelor of Engineering in Computer Science
+        sub_title: Sookmyung Women's University
 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming Languages and Tools: Python, C/C++, Java, JavaScript, SQL, MongoDB, Node.js, Arduino, App Inventor
+      - Programming Languages and Tools: Python, C/C++, Java, JavaScript, Pytorch, Node.js, MongoDB, MySQL, Arduino
       - Data Analysis Tool: Pandas, Scikit-learn, Numpy, Seaborn, Matplotlib
 
   - title: Projects # Title for the section
@@ -98,15 +98,33 @@ content:
         # quote: >
         #   This project aims to create an innovative gamification framework that leverages machine learning to promote equity and inclusion in the education field.
         description: | # this will include new lines to allow paragraphs
-          - Collected and cleaned data performing in-depth analysis of 35 commercially available and playable educational games designed for teaching AI across 18 criteria and built a comprehensive data set.
-          - Conducted exploratory research using Python libraries to visualize and analyze the data distributions and correlations
+          - Conducted exploratory research on 35 commercial games for AI education, focusing on 18 key features related to AI, education, games.
+          - Visualized and analyzed data distributions and correlations to facilitate collaboration with experts from various fields.
           - <mark>Python</mark> <mark>Pandas</mark>, <mark>Numpy</mark>, <mark>Seaborn</mark>, <mark>Matplotlib</mark>
       
+      - layout: top
+        title: Optimizing Distributed Storage Systems in Home Edge Network
+        # link: github.com/sproogen
+        # link_text: Project Website
+        caption: Mar 2022
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This project aims to create an innovative gamification framework that leverages machine learning to promote equity and inclusion in the education field.
+        description: | # this will include new lines to allow paragraphs
+          - Developed a storage system for data distribution that efficiently utilizes the unoccupied storage of IoT devices within small home networks by spreading data across these devices.
+          - <mark>C++</mark> <mark>JSON-RPC</mark>
+
       - layout: top
         title: “Play Meet”
         link: github.com/Angela118/playmeet
         # link_text: Project Website
-        caption: May 2018 - Sep 2018
+        caption: Apr 2018 - Sep 2018
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
@@ -117,10 +135,8 @@ content:
         quote: >
           “Play Meet” is an unreleased web application that helps amateur soccer teams find the most ideal opponent team. This application includes several functions such as messenger, scheduling with a calendar, reviewing the opposing team, and recommendation systems.
         description: | # this will include new lines to allow paragraphs
-          - As the team leader of a three-member team, managed and optimized the entire project workflow, ensuring operational efficiency and culminating in a successful final presentation.
-          - Developed the recommendation system using Numpy and SciPy, leveraging Euclidean distance to analyze user information data for personalized recommendations.
-          - Built the database to store and manage user information, chat logs, reviews, and schedules.
-          - Engineered the server to handle the data for the match management system, posting games, chatting, scheduling, and reviews.
+          - Developed a web application that helps amateur soccer teams find the most ideal opponent team.
+          - Improved user experience by integrating a recommendation system, communication and scheduling features into a single platform, streamlining the match-finding process.
           - <mark>Python</mark>, <mark>JavaScript</mark>, <mark>Node.js</mark>, <mark>MongoDB</mark>
 
       - layout: top
@@ -138,14 +154,24 @@ content:
         quote: >
           “IoT Smart Stroller” which can read the surroundings and react optimally for parents.
         description: | # this will include new lines to allow paragraphs
-          - As the leader of a five-member team, led the project and team, adeptly managing constraints that required us to utilize a limited set of tools within a designated time frame.
-          - Coded several Arduino sensors (the distance, bump, temperature and humidity, and sound sensors) and a speaker which were attached to the stroller.
-          - Developed a simple mobile application to display data from the sensors for users by connecting it to the Arduino system.
+          - Led a team of 5 members from diverse majors, effectively managing constraints to utilize only 5 basic tools within a 24-hour period.
+          - Developed IoT Smart Stroller with a mobile application that detects environmental hazards and alerts parents, reducing the burden of childcare and enhancing the safety of the child.
           - <mark>App Inventor</mark>, <mark>Arduino</mark>
 
   - title: Activities # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top
+          title: AI Immersive Program
+          # link: boringcompany.com
+          # link_text: boringcompany.com
+          sub_title: BOOSTCOURSE Coaching Study [Let's AI]
+          caption: May 2024 - Present
+          # quote: >
+          #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          # description: | # this will include new lines to allow paragraphs
+          #     Analyzed multiple datasets on Kaggle, performing Exploratory Data Analysis (EDA), Feature Engineering, Model Selection, and Parameter Optimization using Python-based techniques.
+
       - layout: top
         title: Data Science Immersive Program
         # link: boringcompany.com
@@ -156,24 +182,12 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Analyzed multiple datasets on Kaggle, performing Exploratory Data Analysis (EDA), Feature Engineering, Model Selection, and Parameter Optimization using Python-based techniques.
-      
-      - layout: top
-        title: AI Immersive Program
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: BOOSTCOURSE Coaching Study [Let's AI]
-        caption: May 2024 - Present
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        # description: | # this will include new lines to allow paragraphs
-        #     Analyzed multiple datasets on Kaggle, performing Exploratory Data Analysis (EDA), Feature Engineering, Model Selection, and Parameter Optimization using Python-based techniques.
 
   - title: Honor & Scholarships
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 3rd place, WIC Maker Hackathon        @Sookmyung Women't University
       - Honor Student Scholarship       @Sookmyung Women’s University
-      - Prime Scholarship       @Sookmyung Women’s University
 
   # - title: Education # Title for the section
   #   layout: list # Type of content section (list/text)
